@@ -524,5 +524,17 @@
     "active" : true,
     "vendor_version" : "V1",
     "key" : "sonos"
+  },
+   "BambooHR" : {
+    "image" : "https://images.cloudelements.io/bamboohr_215201805210906.png",
+    "path" : "extended-resources/bamboohr/element.json",
+    "extended" : true,
+    "hub" : "humancapital",
+    "author" : "avinashch0216",
+    "name" : "Bamboo HR",
+    "active" : true,
+    "description" : "The API can be used to manipulate employee data and to generate reports in several formats.",
+    "vendor_version" : null,
+    "key" : "bamboohr"
   }
 }
